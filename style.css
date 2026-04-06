@@ -22,3 +22,19 @@ body{
     margin-left:500px ;
     margin-right: 500px;
 }
+
+.introducao{
+    margin: 20px;
+}
+
+.desenvolvimento{
+    margin: 20px;
+}
+
+.conclusao{
+    margin: 20px;
+}
+
+p{
+    font-size: 20px;
+}
