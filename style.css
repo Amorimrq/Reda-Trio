@@ -1,0 +1,24 @@
+*{
+    text-align: center;    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: linear-gradient(to bottom, rgb(4, 223, 4), rgba(0, 128, 19, 0.523));
+    background-repeat: no-repeat;
+    height: 916px;
+}
+
+.titulo{
+    margin-top: 100px;
+}
+
+.redacao{
+    border: 2px solid rgba(0, 0, 0, 0.057);
+    border-radius: 16px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.162);
+    background-color: white;
+    margin-top: 100px;
+    margin-left:500px ;
+    margin-right: 500px;
+}
