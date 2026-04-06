@@ -1,26 +1,27 @@
 *{
     text-align: center;    
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 body{
-    background: linear-gradient(to bottom, rgb(4, 223, 4), rgba(0, 128, 19, 0.523));
+    background: linear-gradient(to bottom, rgba(58, 228, 63, 0.249), rgba(79, 156, 98, 0.523));
     background-repeat: no-repeat;
-    height: 916px;
+
 }
 
 .titulo{
     margin-top: 100px;
+    font-size: 30px;
+    
 }
 
 .redacao{
     border: 2px solid rgba(0, 0, 0, 0.057);
     border-radius: 16px;
-    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.162);
+    box-shadow: 0px 12px 10px 10px  rgba(0, 0, 0, 0.135);
     background-color: white;
     margin-top: 100px;
-    margin-left:500px ;
-    margin-right: 500px;
+    margin:200px ;
 }
 
 .introducao{
